@@ -1,5 +1,8 @@
 # SecureText Vault 🔐
 
+|<img width="1280" height="640" alt="STV" src="https://github.com/user-attachments/assets/37d003c9-c819-498a-a653-1e5d472ac28e" />|
+|---|
+
 **SecureText Vault** is a secure, Kotlin-only desktop application for encrypting and storing sensitive text data. Built with Jetpack Compose for Desktop and fully written in Kotlin, it requires no Java code and no internet access.
 
 ## ✅ Features
